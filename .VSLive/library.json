@@ -1,0 +1,33 @@
+{
+  "name":"VS-Live",
+  "description":"Volca Sample Line-In Tool",
+  "keywords":"wvr,audio,esp32,volca,sample",
+  "authors":
+  {
+    "name": "Ryan Wahl",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/allordacia/VolcaSample-Live.git"
+  },
+  "version": "0.0.1",
+  "license": "LGPL-3.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif32"],
+  "dependencies": [
+    {
+      "name": "AsyncTCP",
+      "platforms": "espressif32"
+    },
+    {
+      "name": "ESPAsyncWebServer",
+      "platforms": "espressif32"
+    },
+    {
+      "name": "Adafruit_NeoPixel",
+      "platforms": "espressif32"
+    }
+  ]
+}

@@ -1,3 +1,11 @@
+# 2022 Update:
+Great news! Its.... ALIVE!
+
+More to come but I finally have this in a near release ready package with minimal hardware tinkering necessary and working on adding support to at least a few microcontroller boards to give users some options for what hardware they want to use.
+
+Stay tuned!
+
+
 # 2021 Update
 Hey guys, this project ended on a bit of a sour note with me not being able to get it up and running last year. A lot of time has since passed though and I wanted to give an update that at long last... it lives! Thanks to an incredible little kickstarter project for the launch of the WVR Audio Board Ive been able to not only revive the dream of getting a line-in input working on the sample but also been completely in awe of the number of additional features and possibilites that are now completely feasable. Additionally, Ive significantly improved my coding chops over the last year so putting this all together is now something I am able to actually realize. 
 

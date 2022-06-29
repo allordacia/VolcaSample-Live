@@ -4,7 +4,7 @@
   "keywords":"wvr,audio,esp32,volca,sample",
   "authors":
   {
-    "name": "Ryan Wahl",
+    "name": "Allordacia",
     "maintainer": true
   },
   "repository":
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/allordacia/VolcaSample-Live.git"
   },
-  "version": "0.0.1",
+  "version": "0.3.0",
   "license": "LGPL-3.0",
   "frameworks": "arduino",
   "platforms": ["espressif32"],
